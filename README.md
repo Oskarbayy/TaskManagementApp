@@ -1,0 +1,1 @@
+This is a project for fun the idea is to have an easy lightweight app where I can easily type in notes and give it tasks and organize your thoughts.
